@@ -6,8 +6,8 @@
 #include <esp_task_wdt.h>
 #include <ArduinoJson.h>
 
-const char* ap_ssid = "SterownikDzwonka";
-const char* ap_password = "hasloto123";
+const char* ap_ssid = "nazwa";
+const char* ap_password = "haslo";
 #define DZWONEK_PIN 13
 
 struct Harmonogram {
