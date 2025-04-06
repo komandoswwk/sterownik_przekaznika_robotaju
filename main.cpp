@@ -7,8 +7,8 @@
 #include <ArduinoJson.h>
 
 // Konfiguracja sieci WiFi w trybie Access Point
-const char* ap_ssid = "SterownikDzwonka"; // Nazwa sieci WiFi
-const char* ap_password = "hasloto123";   // Hasło do sieci WiFi
+const char* ap_ssid = "nazwa"; // Nazwa sieci WiFi
+const char* ap_password = "haslo";   // Hasło do sieci WiFi
 
 // Definicja pinu sterującego dzwonkiem
 #define DZWONEK_PIN 13
